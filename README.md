@@ -1,4 +1,4 @@
-The name of the code is 'lmgs', an abbreviation of 'Langmuir Method for Gas Storage'.
+The name of the code is 'lmgs', an abbreviation of 'Langmuir Model for Gas Storage'.
 
 The code 'lmgs' calculates the gas storage capacities of a solid material, by means of the Langmuir method or model.
 
